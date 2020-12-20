@@ -1,0 +1,17 @@
+nsf:
+  type: http
+  version: '2.0'
+  nsfServer: 'http://nsf-server-cust56.netease.com'
+  application:
+    name: stock-viewer
+    version: 0.0.1
+    projectCode: zhangliang
+    envCode: prod
+    zone: default
+    group: default
+    tags: []
+  authority:
+    accessKey: 6af6e9b025df45b8b28af040822f660a
+    secretKey: 2354cded514a483d8ee590a279a5c64a
+  manager:
+    patterns: []
